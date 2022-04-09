@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /
+Sitemap: https://cse135.paulurl.com/
